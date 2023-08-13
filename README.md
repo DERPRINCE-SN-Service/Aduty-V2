@@ -1,7 +1,11 @@
 --https://discord.gg/WrQmADK3
 Coming Soon..... 
 
-New Update 
+Neue Funktionen 
 
-- Webhook 
-- Commands
+Discord Logs (webhook-logs)
+Neue Commands 
+Teleport Funktionen (z.B tpm, tp) 
+Benötigte Version
+
+ESX 1.94 Legacy (bis Version 1.10.1)
