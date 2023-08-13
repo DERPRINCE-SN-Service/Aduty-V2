@@ -3,9 +3,9 @@ Coming Soon.....
 
 **Neue Funktionen**
 
--Discord Logs (webhook-logs)
--Neue Commands 
--Teleport Funktionen (z.B tpm, tp) 
+- Discord Logs (webhook-logs)
+- Neue Commands 
+- Teleport Funktionen (z.B tpm, tp) 
 
 **Benötigte Version**
 
