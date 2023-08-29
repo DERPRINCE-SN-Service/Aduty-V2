@@ -21,4 +21,4 @@ Upon Disabling admin mode, the resource:
 - /9 - Toggle the plaer into noclip 
 
 ## Check the discord
---https://discord.gg/WrQmADK3
+https://discord.gg/WrQmADK3
